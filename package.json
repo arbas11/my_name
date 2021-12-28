@@ -1,0 +1,22 @@
+{
+  "name": "my_name",
+  "version": "1.0.0",
+  "description": "tugas day 27 part 2 create server with express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arbas11/my_name.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arbas11/my_name/issues"
+  },
+  "homepage": "https://github.com/arbas11/my_name#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
